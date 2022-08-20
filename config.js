@@ -1,5 +1,5 @@
 global.DeveloperMode = 'false' //true Or false
-global.owner = ['573122561557']
+global.owner = ['573122561557','50257681618','573177277777','573023900508','1(809)360-2057','1(786)669-6696','1(332)333-3333','5216566426680','1(678)409-9435','5213414367270','50371181111','573008651068','50247613409','5037111010','50259955513']
 // Nota: Puedes contactarme si necesitas ayuda con algo al +573122561557 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
 // => Solo dudas sobre la instalación, temas generales contactarme al +573122561557
 // => NO ayudo a hacer Bots, ni crearlos, ni editarlos 
